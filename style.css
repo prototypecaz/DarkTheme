@@ -1,0 +1,68 @@
+header nav a {
+    font-size: 20px;
+}
+
+.icone {
+    margin-top:150px
+}
+
+.started {
+    border-style: none;
+    width: 200px;
+    border-radius: 50px;
+    background-color: #4EC3D4
+    
+    
+}
+
+.block1 {
+    height: 300px;
+   background-color:#1C2230;
+   top:230px;
+   margin-top:-100px
+}
+
+.block {
+  background-color:#21293C
+}
+
+input {
+    width: 600px;
+    
+}
+.started2 {
+    width: 300px;
+    background-color: #4EC3D4;
+    
+   
+}
+input,.started2 {
+    border-radius: 50px;
+    height: 40px;
+    border-style: none;
+}
+
+.profil {
+    border-radius: 100px;
+    width: 50px;
+}
+
+body {
+    background-color: #181F2B;
+    
+;}
+
+#vague {
+    background: url("./images/bg-curvy-desktop.svg") no-repeat;
+    background-position: bottom -350px center;
+    background-size: cover;
+    
+}
+
+footer {
+    background-color: black;
+    padding: 150px 0 50px 0;
+    
+    
+}
+
